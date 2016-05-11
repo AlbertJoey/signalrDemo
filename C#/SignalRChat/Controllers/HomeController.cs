@@ -16,6 +16,7 @@ namespace SignalRChat.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            //hello
 
             return View();
         }
